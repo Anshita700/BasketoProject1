@@ -16,7 +16,7 @@ Other Functionalities:
 # Installation :
 * * Steps
 . Clone the github repository : git clone
-
+https://github.com/Anshita700/BasketoProject1.git
 Navigate to the project : cd BasketoProject1
 
 Start your project : java -jar 
