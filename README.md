@@ -9,5 +9,19 @@ Introduction :  Basketo Shopping cart Application, where we can order particular
 4.Payment Service
 Other Functionalities:
 . Used JWT token for authorization and SMTP
+Installation :
+Steps
+. Clone the github repository : git clone
+
+Navigate to the project : cd BasketoProject1
+Start your project : java -jar 
+Java Development Kit (JDK)
+Maven or Gradle Build Tool
+Integerated Development Environment
+Spring Initializr
+Database 
+MySQL
+H2 Database
+Postman
 
 
