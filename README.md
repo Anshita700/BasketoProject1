@@ -1,4 +1,5 @@
 # Basketo Shopping cart Application
+
 Cerated API for Shopping cart Application using Springboot
 # Table of Contents
 # Introduction : 
@@ -6,16 +7,22 @@ Basketo Shopping cart Application, where we can order particular product based o
 
 
 ->Responsible for Creating  different services
+
 1.Order Service 
+
 2.User Service
+
 3.Product Service
+
 4.Payment Service
 
 Other Functionalities:
 . Used JWT token for authorization and SMTP
 # Installation :
 * * Steps
+    
 . Clone the github repository : git clone
+
 https://github.com/Anshita700/BasketoProject1.git
 
 Navigate to the project : cd BasketoProject1
