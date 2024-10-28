@@ -8,16 +8,15 @@ Basketo Shopping cart Application, where we can order particular product based o
 
 ->Responsible for Creating  different services
 
-1.Order Service 
+1.Order Service :-> To Place the order
 
-2.User Service
+2.Product Service :-> Created API to add the Product
 
-3.Product Service
-
-4.Payment Service
+3.Payment Service
 
 Other Functionalities:
-. Used JWT token for authorization and SMTP
+. OKTA Service Provider : to give User details and authenticate user (JWT Token Service)
+. API Gateway : Responsible for authenticate all the request Passing through API gateway
 # Installation :
 * * Steps
     
